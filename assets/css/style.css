@@ -1,0 +1,102 @@
+
+
+
+
+  #footer {
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    /*height: $height-footer;*/
+    
+   background: #666666;  
+      color: white;  
+      border-top: 10px solid #4aaaa5;
+    }
+.footer-block {
+      margin: 20px 0;
+     
+    
+    }
+
+.headcontainer
+{ 
+  background: #ffffff; 
+   border-bottom: 4px solid #cccccc; 
+/*padding: 20px;  */
+height: $height-header;
+
+   }
+
+#logo
+{    
+    position: absolute;
+    font-size: 2.0rem;
+    left: 15%;
+    color: white;
+    
+    font-family: 'Lato', sans-serif;
+    background: #4aaaa5;
+}
+body{
+  background-image: url("../images/intersection.png"); 
+  font-family: 'Dosis', sans-serif;
+  color: #777777;
+}
+
+
+h1{color:#4aaaa5;  
+  font-family: 'Lato', sans-serif; 
+   }
+
+.pantitle{
+      color:#4aaaa5;
+      font-family: 'Lato', sans-serif; 
+ }
+ .maincontent{
+  background-color: #ffffff;border: 1px solid #dddddd;
+  padding:2px solid #cccccc;
+ }
+
+.pagehead{
+  border-bottom: 4px solid #cccccc;
+}
+a{
+  font-size: 1.8rem;
+}
+
+.submit{background: #4aaaa5;
+    color: white;
+  }
+
+.formpad{
+  padding-bottom: 10px;
+}
+
+
+
+ @media screen and (max-width: 640px) { 
+
+.sociallogo{
+  width: 10%
+
+}
+}
+
+  
+/*Teal color (used for headings and backgrounds): #4aaaa5
+Regular font color (used for paragraphs and all text besides the headings): #777777
+Main header background color: #ffffff
+Main header border color: #cccccc
+Footer background color: #666666
+Main content background color: #ffffff
+Main content border color: #dddddd
+Fonts:
+For all other fonts use 'Arial', 'Helvetica Neue', Helvetica, sans-serif;.*/
+
+
+
+
+
+
+
+/*old css*/
